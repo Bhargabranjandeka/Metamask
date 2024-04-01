@@ -5,4 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 For this assignment I have made use of the Window object from the browser environment to get the states of Eth from Metamask.
 
 Pros- This eliminates the compatibilty issues of the legacy browsers.
-Cons - lack the issue of web3 Lib functions and hooks.
+Cons - lack the use of web3 Lib functions and hooks.
