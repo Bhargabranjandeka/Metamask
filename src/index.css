@@ -11,3 +11,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+body {
+  background-color: #fff;
+  color: #070709;
+}
+
+.navbar {
+  text-align: center;
+  color: #E10859;
+}
+
+.navbar .navbar-item {
+  color: #E10859;
+}
+
+.connect-wallet span {
+  color: #E10859;
+}
+
+.connect-wallet:hover {
+  background-color: #e1e1e1 !important;
+}
+
+.container.main-content {
+  max-width: 1000px !important;
+}
+
+.faucet-hero-body {
+  margin-top: 100px;
+}
+
+.withdraw-error {
+  color: red;
+}
+
+.withdraw-success {
+  color: green;
+}
+
+.error {
+  text-align: center;
+}
